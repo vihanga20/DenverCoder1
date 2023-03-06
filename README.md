@@ -48,7 +48,7 @@
   <table>
     <tr>
       <!-- <th>$10+/month</th> -->
-      <th>$5+/month</th>
+      <th>$0+/month</th>
     </tr>
     <tr>
       <!-- $10+/month -->
